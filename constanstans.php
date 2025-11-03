@@ -2,7 +2,6 @@
 $ism ="hghf";
 $ism = "vdtfg";
 define("ism", "sarvar");
-define("ism", "komil");
 
 echo ism;
 echo "\n";
