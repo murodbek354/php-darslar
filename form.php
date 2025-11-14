@@ -11,7 +11,7 @@
     <input type="text"name= "ism" id= "">
     <label for="">Familya</label>
     <input type="text" name= "familya"id="">
-    <button type="submit">saqlash</button>
+    <button type="submit">saqlash</button> 
 </form>
 </body>
 </html>
