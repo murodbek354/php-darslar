@@ -1,7 +1,4 @@
 
-<?php 
-include 'header.php';
-?>
  <div class="wrap">
     <h1>Foydalanuvchilar ro'yxati</h1>
 
@@ -62,5 +59,5 @@ include 'header.php';
     </div>
   </div>
   <?php
-  include 'footer.php';
+  include 'footer.php';  
   ?>

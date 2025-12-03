@@ -3,7 +3,7 @@ date_default_timezone_set("Asia/Tashkent");
 echo"xozirgi sana:". date("y-m-d")."<br>";
 echo"xozirgi sana:". date("y m d")."<br>";
 echo"xozirgi sana:". date("y.m.d")."<br>";
-echo"xozirgi sana:". date("d.m.y")."<br>";
+echo"xozirgi sana:". date("m.y.d")."<br>";
 echo"xozirgi sana:". date("d.m.y")."<br>";
 echo"xozirgi sana:". date("D.m.y")."<br>";
 echo"xozirgi sana:". date("D.M.Y")."<br>";
@@ -18,7 +18,7 @@ echo "unix time:".time()."<br>";
 echo "unix time". strtotime( "2025-11-14") ."<br>";
 echo date ("d.m.Y", strtotime("2025-11-14")) ."<br>";
 echo date ("d.m.Y", strtotime("+7 year")) ."<br>";
-echo "unix time". date("d.m.Y", time())."<br>";
+echo "unix time". date("d.m.Y", time())."<br>";  
 
 
 
